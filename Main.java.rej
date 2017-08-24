@@ -1,0 +1,9 @@
+diff a/Main.java b/Main.java	(rejected hunks)
+@@ -1,7 +1,6 @@
+ public class Main{
+ 
+    public static void main(String[] args){
+-     System.out.print("Hello, World!");
+      System.out.print("Wut up!");
+    }
+    
